@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-07T11:18:00.042Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mn5LwhhnYCRpX9o2ONeU" version="13.1.14" type="github">
+<mxfile modified="2020-06-07T11:22:32.273Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="sZ8IC-KMyP7gIGxgW-v9" version="13.1.14" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             <mxPoint x="759.5" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwxbCeUritOEieoB_8Dk-433" value="Architecture: TerramEarth Case Study" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="xwxbCeUritOEieoB_8Dk-433" value="Architecture: Mountkirk Games Case Study" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="45" width="1000" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isCxg0S9MCMh4zA0xf7g-409" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -58,6 +58,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="oC8XXLY1Rj8nTh44MOHi-414" target="oC8XXLY1Rj8nTh44MOHi-424">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oC8XXLY1Rj8nTh44MOHi-414" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="442.75" y="382" width="204.5" height="62.4" as="geometry" />
         </mxCell>
@@ -66,10 +69,32 @@
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oC8XXLY1Rj8nTh44MOHi-417" target="oC8XXLY1Rj8nTh44MOHi-414">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-428" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;" edge="1" parent="1" source="oC8XXLY1Rj8nTh44MOHi-417" target="oC8XXLY1Rj8nTh44MOHi-422">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oC8XXLY1Rj8nTh44MOHi-417" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="120" width="158" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oC8XXLY1Rj8nTh44MOHi-418" value="&lt;font color=&quot;#000000&quot;&gt;Backend Servers&lt;br&gt;&lt;/font&gt;Compute Engine&lt;hr&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Autoscaling based&amp;nbsp;&lt;br&gt;on game activity&lt;br&gt;&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="oC8XXLY1Rj8nTh44MOHi-417">
+          <mxGeometry width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-422" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="647.25" y="80" width="158" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-423" value="&lt;font color=&quot;#000000&quot;&gt;User Profiles and&lt;br&gt;Game state&lt;/font&gt;&lt;br&gt;Cloud Spanner" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_spanner;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="oC8XXLY1Rj8nTh44MOHi-422">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-424" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="157" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-425" value="&lt;font color=&quot;#000000&quot;&gt;Data Warehouse&lt;/font&gt;&lt;br&gt;BigQuery&lt;hr&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Historical Data and&lt;br&gt;NRT Data&lt;br&gt;&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="oC8XXLY1Rj8nTh44MOHi-424">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
