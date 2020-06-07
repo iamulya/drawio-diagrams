@@ -1,1 +1,60 @@
-<mxfile modified="2020-06-07T10:49:44.185Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="csq-k50hsd2R4djgT0GH" version="13.1.14" type="github"><diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">7VhJb+s2EP41PjrQbvvoNT08owGcoseAlmiJsCSqFBUr79d3KJFaKHl5jYteKgGJOAuXmW8WemKvk/KVoSza0wDHE8sIyom9mVjWwvHgryB81QTXc2tCyEhQk8yWcCA/sSQaklqQAOc9QU5pzEnWJ/o0TbHPezTEGL30xU407q+aoRAPCAcfxUPqnyTgkaSa3qJl/IZJGMml59asZhyRfw4ZLVK53sSyT9VTsxOk5pIHzSMU0EuHZG8n9ppRyuuvpFzjWJhWma3W213hNvtmOOWPKFi1wieKC6x27MWgujrCRyg+XikNwS5iopoDszXMdUyLAHhvMeInyhJ5Kv6lLHkicbymMWXV0N554gXFnDN6xoqT0hQLorKGAYOQoYDAMTSZE025BIzpwBjFJExhEOOT2FCeIZ+koeAaUrqz/MwUL9AXW/HCxydmnIDjl3IaTrN2lncx2Ewdtaw8ltFK/KhW3TiCFPEkFutWJtLdID0jlsNlhyTd8oppgjn7AhHJhaB5kUEjg8iRmLm0iJyZphKKOnB0F1IUyTgIm+lbLMCHhMM4NOwRaGjOBX9l4jMpQ5EGXkI/s17CCi8fvkDGR6ZwARZ8NhKGRrYeNnLHhuqgXQOq8GQY9k8++1lhzKhyhTdKYC+tD42eA03NK/R0yjEf+KTZ5kNucozZwC84gGwmh5TxiIY0RfG2pa6qFIUDaeAOcgOURw09Rkccr5qUpvuII8aXIttqtB0Ru63DRIxluIowwmmgNI4x9c/vEUlrslQy61FHpY8PQI5jzZ2d3XBUgra05GDdikNhoZsA+TXPw5nQV0cgEzjIrwPDc+ZacLuulqjvali2q0Gn3sUV/blxRb/ZNLgqxFzqfROTi/8x+V9jcgCBmbvQIWBoGSmnBfPxMyBQXsrjGv/BCP99SzBdfcw356ljD4vKkvkR4dDEFQwoS2C+Y8BxsgUnRTBao1w0HwdeBF/3ugtnszR37t2aYn63u5BV3x3pMGS395QWwHEHBd80lMu65cp5Qrkn+boMjcNiv95Hzs+lUZ5m4bQJ5FtdgAjE7MrZmhYdHZW4ccUyd82gQDvSB5m2MdYHmd4z+iC13kiTLJzfM4b3V0EVY5pXQBKQNo2sbJmqed5DAuNnws4g8YoSuPBYRpFjJv4jsQfZiTOlgOqbBVyGIhETF8rgXjOQ6vTp9f4UWfNbm29FQKBjTuOCY4hHFQDVimpk9XPyaIRdCapeM9dL5npu1IKp6dK1MLzZtKvWf6SH72eL7W672i5GQ/VOMPxSf/lvYnM8yzrOALB7eiTVJW6DP4mP82Err1e0oHr0tNkvb2avaj+KoqqCv9GccEKF93wwO2Ydt/7QBBISBFWHoGAw0FBAOFLOaTJI1CN5elE9IxC8iGp0AHVBucC1pp1tJWffjJfxb4NGcgEvlnbz8wYZbzZSBky9nD8RUu79OtCL7H7a1xo6LRBnrnhvlO3hJTOp8PwRSDTbK3AEn1y7fN8Jk4c90wRyxxHuiCNsTwl+s2WbakAwvZeZ1rX/k0skDNufmGrx9mc8e/s3</diagram></mxfile>
+<mxfile modified="2020-06-07T10:52:22.567Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="68GdYCANZ1suWMkr7SEZ" version="13.1.14" type="github">
+  <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
+    <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225.5" y="40" width="711.5" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="2" vertex="1">
+          <mxGeometry width="23" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="407" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=4;endArrow=blockThin;endFill=1;endSize=4;strokeColor=#4284F3;strokeWidth=2;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648.5" y="550" />
+              <mxPoint x="648.5" y="235" />
+            </Array>
+            <mxPoint x="680.5" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="409" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=4;endArrow=blockThin;endFill=1;endSize=4;strokeColor=#4284F3;strokeWidth=2;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.5" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xwxbCeUritOEieoB_8Dk-433" value="Architecture: TerramEarth Case Study" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="45" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isCxg0S9MCMh4zA0xf7g-409" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="45" y="240" width="130.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="340" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Mountkirk Games users all&lt;br&gt;around the world&lt;br&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" parent="isCxg0S9MCMh4zA0xf7g-409" vertex="1">
+          <mxGeometry width="130.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xwxbCeUritOEieoB_8Dk-444" value="Mobile Devices" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;" parent="isCxg0S9MCMh4zA0xf7g-409" vertex="1">
+          <mxGeometry x="30.25" y="46" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xwxbCeUritOEieoB_8Dk-445" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.mobile_devices;part=1;" parent="xwxbCeUritOEieoB_8Dk-444" vertex="1">
+          <mxGeometry x="0.5" width="50" height="36.5" relative="1" as="geometry">
+            <mxPoint x="-25" y="16.75" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-409" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="168" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-410" value="&lt;font color=&quot;#000000&quot;&gt;Game Backend&lt;/font&gt;&lt;br&gt;Compute Engine" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="oC8XXLY1Rj8nTh44MOHi-409">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC8XXLY1Rj8nTh44MOHi-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="340" target="oC8XXLY1Rj8nTh44MOHi-409">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
