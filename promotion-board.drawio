@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T17:45:25.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="GSUAhXYQYLpuzfnYIfgI" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-10T17:55:23.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="kpw_isS4Csk-EhVGYFde" version="13.4.1" type="github">
   <diagram id="cE_NSa8QyI1WMCDkIsqq" name="Page-1">
-    <mxGraphModel dx="595" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G4zlCLsH4fVkUfZktx33-1" value="&lt;h1&gt;&lt;font color=&quot;#ff6666&quot;&gt;Themenentwicklung&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ff9999&quot;&gt;Schaden-Sherlock&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#666666&quot;&gt;KI-Modelle zur automatische Schaden-Erkennung anhand Bilder&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;KI-Projekte&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Mitwirkung in zwei KI-Projekten als erster externer KI Dienstleister bei der R+V&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="970" y="100" width="250" height="340" as="geometry" />
+        <mxCell id="cU7b3j9YrC26auSPxf-I-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="913" y="77" width="648" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="cU7b3j9YrC26auSPxf-I-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="961" y="112" width="560" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="G4zlCLsH4fVkUfZktx33-1" value="&lt;h1&gt;&lt;font color=&quot;#ff6666&quot;&gt;Themenentwicklung&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ff9999&quot;&gt;Schaden-Sherlock&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#666666&quot;&gt;KI-Modelle zur automatische Schaden-Erkennung anhand Bilder&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;KI-Projekte&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Mitwirkung in zwei KI-Projekten als erster externer KI Dienstleister bei der R+V&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="cU7b3j9YrC26auSPxf-I-2" vertex="1">
+          <mxGeometry x="310" width="250" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="cU7b3j9YrC26auSPxf-I-1" value="&lt;h1&gt;&lt;span&gt;&lt;font color=&quot;#ff6666&quot;&gt;Engagement&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Mentoring&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Coaching von sowohl internen als auch externe Kollegen in diversen Themen&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Angebotserstellung / RFP&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Subject Matter Expert bei Angebotserstellungen währen 4+ Jahren bei der R+V&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cU7b3j9YrC26auSPxf-I-2">
+          <mxGeometry width="250" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
