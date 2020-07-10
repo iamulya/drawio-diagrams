@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T18:45:33.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.1" etag="8F-iH6xMT-P62rJZnBj0" type="github"><diagram id="r1tN7UxyKu4WNXf6Jt81">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-10T18:45:44.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_8WFTjomzq6KIi2xIFjk" version="13.4.1" type="github">
+  <diagram id="r1tN7UxyKu4WNXf6Jt81" name="Page-1">
+    <mxGraphModel dx="595" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6_JUzSjx_Nh24gM4Ez0H-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="908" y="504" width="648" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="6_JUzSjx_Nh24gM4Ez0H-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6_JUzSjx_Nh24gM4Ez0H-1">
+          <mxGeometry width="648" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="6_JUzSjx_Nh24gM4Ez0H-3" value="" style="group" vertex="1" connectable="0" parent="6_JUzSjx_Nh24gM4Ez0H-1">
+          <mxGeometry x="48" y="35" width="560" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6_JUzSjx_Nh24gM4Ez0H-4" value="&lt;h1&gt;&lt;font color=&quot;#ff6666&quot;&gt;Themenentwicklung&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff9999&quot;&gt;CI/CD Verfahren&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Automatische versionierung von Artifakten, Automatische Release und Changelogs&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Code Quality Reviews&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Diverse Maßnahmen etabliert die Code / Architektur Qualität zu verbessern&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="6_JUzSjx_Nh24gM4Ez0H-3">
+          <mxGeometry x="310" width="250" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6_JUzSjx_Nh24gM4Ez0H-5" value="&lt;h1&gt;&lt;span&gt;&lt;font color=&quot;#ff6666&quot;&gt;Engagement&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Mentoring&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Coaching von interne Kollegen in diversen Themen wie Native Cloud, Docker, CI/CD, GitOps&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Angebotspräsentation / RFP&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;SME bei der Angebots-präsentation in Mai 2020, inkl. Executive Summary etc.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="6_JUzSjx_Nh24gM4Ez0H-3">
+          <mxGeometry width="250" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
