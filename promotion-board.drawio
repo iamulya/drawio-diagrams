@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T09:32:03.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="h92L29oQmB5DN0-HvcEY" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T13:09:26.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ePb9PZ_ncebWV7_aljNq" version="13.4.1" type="github">
   <diagram id="cE_NSa8QyI1WMCDkIsqq" name="Page-1">
     <mxGraphModel dx="622" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="cU7b3j9YrC26auSPxf-I-12" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 36px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Multi-Cloud Solutions Architect&lt;/font&gt;&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1768" y="842" width="546" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cU7b3j9YrC26auSPxf-I-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACMAAACTCAYAAAAEE6AsAAADyklEQVR4Ae2bz0sbQRTH/WNSaP8LD720h0L/gNwCgR4KHr0VDy166Kn9Byo9GAKCtwoiXuytF6EgbKGYGmUpkRWTbMyPb3nRZ2ZedmR268gG3kB48yY7u9985s0sM7wsoURlqURaoGJco7HYZEanp7jY2MDZyxdoPXs6/VCd2ui7/ym5yFxtbU0ffvKkgqwPiaNrihZvMfSQLAFZbUUFeYkh/PSrzQefr33DMAXwq2G10zV0bZEh8xJD8WAKOfkaYRL/wOVuK1MMXUt98hYvMRSglph6DTHFTTNyiqE+eYuXGDlEd8LuEUN98pbFEzM3TDy17yETbJjmAthDTLAAzpra07hxkAk6tSkQS7Po8awgQc6ZdbvYFV196Rles4nFkKUho3igACVh9KE6tRVZdc175xZjdn7ouopxEVUySsZFwNWuMaNkXARc7RozSsZFwNWuMaNkXARc7RozD0amNLuD0uybsnaU59Uq2rzvNmzRjZxXAM/ttesNXCcpJt0UkzTBdbNmHSYF3WvbpxBVdH+nGHxZvhFQ38EwjXBlkHnEY7RlxG/fIH7Ox6+fMejOiwl2PuPe7C+jcxBjcty4OeMz6FCfvMUrZlxi4maESecQF3eUmNbN8WsQMYT87lDx9te31w8xplipzwSY1wQbJjuAKyAhI4oTh5CgAWxP7Xfod+ig5nZq0/TuttBfmxEKOrVp7LMWPXNYzHrQRY8DkR7iCmYSQ98VFULP8JpNLIZsaV6UpqgQ9dxkQojge6oYJiGtkpFE2FcyTEJaJSOJsK9kmIS0SkYSYV/JMAlplYwkwr6SYRLSKhlJhH0lwySkVTKSCPtKhklIq2QkEfaVDJOQVslIIuwrGSYhrZKRRNhXMkxCWiUjibCvZJiEtEpGEmFfyTAJaZWMJMK+kmES0ioZSYR9JcMkpFUykgj7SoZJSKtkJBH2lQyTkFbJSCLsKxkmIa2SkUTYX2wypcnTK00GIwkx8zen9ddVI2N6lmhaNKXSK2bsrNcKTuqbGHQ4oT3F+GjTypQOmvUq84EvfwKjXc6oX0U/TtB/PyND1KhP3uJFJitTejZkNfTOUgw+2WKCZUpnp91+RO84wnWczA0TCaU+eYsXmWwxq0i2d9A9iDBOWuiJYQom5v5hquDvXozx9w/WbAs2THYAr6AfA8NtDuBXuDxKMdpbscQEC2A5tdvr+xhOE9npvyopJn/2rf8e0BBRn7zFK2boplmLXrtae/xFj39haV4HLKg0L0oWFMp6x0woAeZ9VYxJw6wrGZOGWVcyJg2z/g/gOjOYOaGLZwAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="2012" y="616" width="35" height="147" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
