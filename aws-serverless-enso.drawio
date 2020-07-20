@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T14:30:36.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.1" etag="gHJ69kVH-I8-KoV8_zqw" type="github"><diagram id="oObuDdZCtoAg5ztcgQ_1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-20T14:30:59.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8DFZNaAzaapnXALxGwHB" version="13.4.1" type="github">
+  <diagram id="oObuDdZCtoAg5ztcgQ_1" name="Page-1">
+    <mxGraphModel dx="595" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PtPA5I7sP5FcOd7XR0zm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1180" width="258" height="371" as="geometry" />
+        </mxCell>
+        <mxCell id="PtPA5I7sP5FcOd7XR0zm-2" value="&lt;h1&gt;&lt;font color=&quot;#ff6666&quot;&gt;Important&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;CRUD Operations&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;In case there is no business logic, for e.g. CRUD Operations, Lambda should be omitted from the architecture&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;API Gateway&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;letter-spacing: -0.063px&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 16px&quot;&gt;Use the API Gateway logging to understand consumer access patterns / behaviors.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Angebotserstellung / RFP&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Subject Matter Expert bei Angebotserstellungen/RFP für die Cloud-Themen.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1186.5" width="247" height="551" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
