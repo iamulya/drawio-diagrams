@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T10:23:58.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.5" etag="r7-UWxlLhIsAJAIE_lOq" type="github"><diagram id="DeFiJLCpiWKqf9OcnUt6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-04T10:36:16.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9vMwTxnhuIEnJMoNLQJO" version="13.8.5" type="github">
+  <diagram id="DeFiJLCpiWKqf9OcnUt6" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-1" value="Daten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-2" value="Applikationen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-3" value="Datenbanken" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-4" value="Laufzeitumgebungen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-7" value="Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-8" value="Betriebssystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-9" value="Virtuelle Umgebung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-10" value="Servers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-11" value="Speicher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-12" value="Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-13" value="Daten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-14" value="Applikationen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-15" value="Datenbanken" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-16" value="Laufzeitumgebungen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-17" value="Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-18" value="Betriebssystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-19" value="Virtuelle Umgebung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-20" value="Servers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-21" value="Speicher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-22" value="Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-23" value="Daten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="489" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-24" value="Applikationen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="489" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-25" value="Datenbanken" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="489" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-26" value="Laufzeitumgebungen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="489" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-27" value="Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="489" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-28" value="Betriebssystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="489" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-29" value="Virtuelle Umgebung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-30" value="Servers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-31" value="Speicher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-32" value="Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-53" value="Daten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-54" value="Applikationen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-55" value="Datenbanken" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-56" value="Laufzeitumgebungen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-57" value="Middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-58" value="Betriebssystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-59" value="Virtuelle Umgebung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-60" value="Servers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-61" value="Speicher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3fZ-SwB5Qe-nGLOBqm0-62" value="Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6785C1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
