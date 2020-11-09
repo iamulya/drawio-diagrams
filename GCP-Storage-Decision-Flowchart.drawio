@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T11:21:57.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="1kyrnD455VkeXdUDl3DZ" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T11:24:57.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="5Br8RofwwcBzA2DeuVoK" version="13.8.5" type="github">
   <diagram id="0jzu83yzt9LRqhIuGKfN" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,13 +207,13 @@
         <mxCell id="A8WNq-k4kn0p34Sj4owe-74" value="&lt;font color=&quot;#ffffff&quot;&gt;Ja&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="540" y="233" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-76" value="Brauchen Sie &lt;br&gt;Mobile SDKs?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="698" y="610" width="130" height="90" as="geometry" />
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-76" value="Brauchen Sie &lt;br&gt;niedrige Latenz bzw. Uodates?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="610" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="A8WNq-k4kn0p34Sj4owe-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="763" y="750" as="targetPoint" />
-            <mxPoint x="763" y="700" as="sourcePoint" />
+            <mxPoint x="769.5" y="750" as="targetPoint" />
+            <mxPoint x="769.5" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A8WNq-k4kn0p34Sj4owe-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="A8WNq-k4kn0p34Sj4owe-83">
@@ -234,28 +234,28 @@
         <mxCell id="A8WNq-k4kn0p34Sj4owe-81" value="&lt;font color=&quot;#ffffff&quot;&gt;Ja&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="664" y="793" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8WNq-k4kn0p34Sj4owe-83">
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8WNq-k4kn0p34Sj4owe-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="832" y="860" as="targetPoint" />
+            <mxPoint x="849" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A8WNq-k4kn0p34Sj4owe-83" value="&lt;font color=&quot;#ffffff&quot;&gt;Nein&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EB3B17;" vertex="1" parent="1">
-          <mxGeometry x="810" y="793" width="44" height="44" as="geometry" />
+          <mxGeometry x="827" y="793" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-84" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="777" y="860" width="110" height="60" as="geometry" />
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-90" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="789" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-85" value="Cloud&#xa;Firestore" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_firestore;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="A8WNq-k4kn0p34Sj4owe-84">
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-91" value="BigQuery" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="A8WNq-k4kn0p34Sj4owe-90">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-86" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="620" y="860" width="132" height="60" as="geometry" />
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-92" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="631" y="860" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-87" value="Cloud Firestore&amp;nbsp;&lt;br&gt;Für Firebase" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="A8WNq-k4kn0p34Sj4owe-86">
-          <mxGeometry width="32.4" height="45" relative="1" as="geometry">
-            <mxPoint x="5" y="7" as="offset" />
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-93" value="Cloud&#xa;Bigtable" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="A8WNq-k4kn0p34Sj4owe-92">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
