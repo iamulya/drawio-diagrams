@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T11:24:57.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="5Br8RofwwcBzA2DeuVoK" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T11:26:13.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="SYIhrVzIi4HhKqXnVw-x" version="13.8.5" type="github">
   <diagram id="0jzu83yzt9LRqhIuGKfN" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
         <mxCell id="A8WNq-k4kn0p34Sj4owe-74" value="&lt;font color=&quot;#ffffff&quot;&gt;Ja&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="540" y="233" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="A8WNq-k4kn0p34Sj4owe-76" value="Brauchen Sie &lt;br&gt;niedrige Latenz bzw. Uodates?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="A8WNq-k4kn0p34Sj4owe-76" value="Brauchen Sie &lt;br&gt;niedrige Latenz bzw. Updates?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="640" y="610" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="A8WNq-k4kn0p34Sj4owe-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
