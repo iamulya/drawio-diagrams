@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T11:04:53.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="5I5XyBfIFJV7kPutULSR" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T11:07:48.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="afuheW8OTO2E0HZ2esiA" version="13.8.5" type="github">
   <diagram id="vFcsvwYLtnisdRrZx7pI" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,17 +10,25 @@
         <mxCell id="aD3c_HmT-s8xsHDP89Bb-3" value="Data Lake&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aD3c_HmT-s8xsHDP89Bb-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="aD3c_HmT-s8xsHDP89Bb-3" parent="1">
+        <mxCell id="aD3c_HmT-s8xsHDP89Bb-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="aD3c_HmT-s8xsHDP89Bb-3" parent="1" source="aD3c_HmT-s8xsHDP89Bb-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aD3c_HmT-s8xsHDP89Bb-5" value="Data Warehouse&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="221" y="260" width="130" height="30" as="geometry" />
+          <mxGeometry x="200" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aD3c_HmT-s8xsHDP89Bb-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" target="aD3c_HmT-s8xsHDP89Bb-5" parent="1">
+        <mxCell id="aD3c_HmT-s8xsHDP89Bb-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="aD3c_HmT-s8xsHDP89Bb-5" parent="1" source="aD3c_HmT-s8xsHDP89Bb-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aD3c_HmT-s8xsHDP89Bb-7" value="Processing Pipelines&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aD3c_HmT-s8xsHDP89Bb-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="aD3c_HmT-s8xsHDP89Bb-7" parent="1" source="aD3c_HmT-s8xsHDP89Bb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
